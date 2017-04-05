@@ -1,5 +1,5 @@
 git add *
-git commit "$@"
+git commit -m $@
 git push origin master
  
 
