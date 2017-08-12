@@ -1,0 +1,1 @@
+window._vsq = window._vsq || []; window._vsq.push(['vsOpts', {site: 'store_oracle', vip: 'bcvippc03.rightnowtech.com', poolId: '14663:2', vsEnabled: true, cacheDomain: 'sc-oal-en.widget.custhelp.com'}]);
